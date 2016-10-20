@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringJsf:war">
+    <output-path>$PROJECT_DIR$/SpringJsf/target</output-path>
+    <root id="archive" name="JavaServerFaces.war">
+      <element id="artifact" artifact-name="SpringJsf:war exploded" />
+    </root>
+  </artifact>
+</component>
